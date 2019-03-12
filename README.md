@@ -15,3 +15,18 @@ If you find any bug or have any question about the method, just let me know.
 * Scikit-learn
 * RBM (check my [RBM](https://github.com/paaatcha/RBM) repository)
 * ELM (check my [RBM](https://github.com/paaatcha/ELM) repository)
+
+## Citation
+If you're using the RBM-ELM method or the code, plese cite the following article:
+
+```
+@article{pacheco2018,
+  title={Restricted Boltzmann machine to determine the input weights for extreme learning machines},
+  author={Pacheco, Andre GC and Krohling, Renato A and da Silva, Carlos AS},
+  journal={Expert Systems with Applications},
+  volume={96},
+  pages={77--85},
+  year={2018},
+  publisher={Elsevier}
+}
+```
